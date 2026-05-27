@@ -21,11 +21,6 @@ This repository contains the SQL queries used to uncover key operational insight
 ![Excel Dashboard](dashboard_screenshot.png)
 
 
-## Documentation
-
-👉 [Read the full analysis and recommendations on Medium](https://medium.com/@opadojajoshua/optimizing-meal-delivery-a-strategic-analysis-0d2e637f68e3)  
-(Includes detailed thought process, reasoning behind key insights, and strategic takeaways)
-
  ## ⚠️ Data Limitations
 
 This analysis was conducted with a few key constraints that limit certain conclusions:
@@ -53,8 +48,7 @@ This analysis was conducted with a few key constraints that limit certain conclu
 **Joshua Opadoja**  
 Data Analyst | Solving problems using data and code
  
- 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-opadoja-5682592b5)
- 🔗 [X(Twitter)](https://x.com/JDataCraft?t=lf1r_jM5QHj6FRG15XdNTA&s=09)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/jatin-patra-1a71aa255/)
 
 ## ⭐ Support
 
